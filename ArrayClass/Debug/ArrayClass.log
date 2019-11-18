@@ -1,0 +1,3 @@
+﻿  ArrayClass.cpp
+C:\Users\G\source\repos\Pluralsight_tut\ArrayClass\ArrayClass.cpp(120,44): warning C4101:  'e': unreferenced local variable
+  ArrayClass.vcxproj -> C:\Users\G\source\repos\Pluralsight_tut\Debug\ArrayClass.exe
